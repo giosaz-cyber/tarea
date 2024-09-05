@@ -1,0 +1,110 @@
+*{margin: 0px;}
+.cara{
+    background-color: aqua;
+    width: 150px; height: 110px;
+    position: fixed;
+    right: 50%;
+    top: 80px;
+    border-radius: 90%;
+    border: 5px solid black; 
+}
+.ojoi{
+    width: 30px; height: 30px;
+    background-color: white;
+    border-radius: 100%;
+    border: 2px solid black; 
+    position: absolute;
+    left: 20%;
+    top: 15%;
+}
+.ojod{
+    width: 30px; height: 30px;
+    background-color: white;
+    border-radius: 100%;
+    border: 2px solid black;
+    position: absolute;
+    right: 20%;
+    top: 15%;
+
+}
+.iris{
+    width: 10px; height: 10px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
+.boca{
+    width: 50px; height: 10px;
+    background-color: orangered;
+    position: absolute;
+    bottom: 15%;
+    left: 30%;
+}
+.cuerpo{
+    background-color: blueviolet;
+    width: 200px; height: 200px;
+    position: fixed;
+    right: 48%;
+    top: 190px;
+    border-radius: 300px;
+    border: 5px solid black; 
+}
+.b1{
+    width: 30px; height: 30px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    right: 45%;
+    top: 20px;
+}
+.b2{
+    width: 30px; height: 30px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    right: 45%;
+    top: 70px;
+
+}
+.b3{
+    width: 30px; height: 30px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    right: 45%;
+    top: 120px;
+}
+.pies{
+    background-color: blue;
+    width: 250px; height: 200px;
+    position: fixed;
+    right: 47%;
+    top: 380px;
+    border-radius: 90%;
+    border: 5px solid black; 
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    position: absolute;
+    left: 50px;
+    top: 100px;
+}
+.brai{
+    width: 150px; height: 10px;
+    background-color: brown;
+    position: absolute;
+    left: 350px;
+    top: 250px;
+    transform: rotate(45deg);
+}
+.brad{
+    width: 150px; height: 10px;
+    background-color: brown;
+    position: absolute;
+    right: 500px;
+    top: 250px;
+    transform: rotate(340deg);
+}
